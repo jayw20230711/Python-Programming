@@ -2,8 +2,10 @@
 
 These exericises were created based on the W3schools Python tutorials. I have primarily used the above mentioned website to learn Python programming
 and used the "PyCharm Community Edition" application to code them. The order of presented coding folders are in the same order I followed the website to learn the given concepts. 
-I have added extra comments and details for clarity and better understanding. Anyone who wanted to learn Python should follow along the folder structures given 
-below.
+I have added extra comments and details for clarity and better understanding. So install a Python app you want and download the codes to your machine and follow along 
+for fastest way to learn pythong.
+
+Please follow along on the order of folders given below.
 - Introduction to Python
 
 
@@ -13,5 +15,4 @@ below.
 
 
 You can download PyCharm Community Edition from JetBrains using below link :
-
 https://www.jetbrains.com/pycharm/download/?section=windows
