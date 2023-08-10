@@ -9,6 +9,32 @@ Please follow along on the order of folders given below.
 - Introduction to Python
 - File Handling
 - Python Modules
+          - Numpy Tutorial
+                - BASIC
+                - RANDOM
+                - ufunc
+          - Pandas Tutorial
+                - BASIC
+                - CLEARNING DATA
+                - ADVANCED
+          - SciPy Tutorial
+          - Django Tutorial
+                - Django Project
+                - Django Template
+                - Add Static Files
+                - Django QuerySets
+                - Django Reference
+ - Matplotlib
+ - MACHINE LEARNING
+ - PYTHON REFERENCE
+ - MODULEE REFERENCE
+            - Random Module
+            - Requests Module
+            - Statistics Module
+            - Math Module
+            - cMath Module
+  
+
 
 
 
