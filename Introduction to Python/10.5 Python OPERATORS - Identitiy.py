@@ -36,3 +36,5 @@ if (a is not b):
     print(str(a) + " and " + str(b) + " do not have have the same identity")
 else:
     print(str(a) + " and "+str(b) + " have the same identity")
+
+print("ID of the object b is : ", id(b))
