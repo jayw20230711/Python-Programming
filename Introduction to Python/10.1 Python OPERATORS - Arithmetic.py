@@ -9,7 +9,7 @@ Operator	Name	            Example
 /	        Division	        x / y
 %	        Modulus	            x % y
 **	        Exponentiation	    x ** y
-//	        Floor division	    x // y
+//	        Floor division	    x // y       -- 10 // 3	     3.333...	     3	The largest integer less than or equal to 3.333... is 3.
 
 """
 
